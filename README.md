@@ -37,10 +37,6 @@ Download the .pbix file from this repository.
 Open it in Power BI Desktop.
 Explore the interactive dashboard and apply filters.
 
-📸 Dashboard Preview
-
-
-
 📌 Future Improvements
 Add predictive sales forecasting using Python + Power BI integration.
 Build a customer segmentation dashboard.
